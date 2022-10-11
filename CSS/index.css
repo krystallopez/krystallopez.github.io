@@ -1,0 +1,90 @@
+body {
+  background-image: linear-gradient(to right, #2193b0, #6dd5ed); 
+  background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+  text-align: center;
+  color:aliceblue;
+  /* margin-left: 10%; */
+}
+ #pagenav {
+    color:azure;
+    font-size: larger;
+    text-shadow: 3px 3px 10px green;
+ }
+
+#section1 {
+  margin: auto;
+  /* background-color: white; */
+  width: 45%;
+  /* border: 5px solid black;
+  border-radius: 0.75em; */
+  align-items: center;
+  padding: 10px;
+}
+
+
+#firstHeading {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  text-shadow: 5px 5px 10px green;
+  /* margin-left: 15% */
+}
+
+#fact1 {
+  color: white;
+  margin-left: 12%;
+  margin-right: 12%; 
+  border: solid 3px rgb(39, 88, 203);
+  box-shadow:5px 5px 10px green;
+  border-radius: 0.75em;
+  padding-top: 10px;
+  padding-bottom:10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  text-align: center;
+}
+
+#r2d2 {
+  width: 600px;
+  border: solid 3px blue;
+  margin-left: 10%;
+  box-shadow: 5px 5px 10px green;
+}
+
+#section2 {
+  margin: auto;
+  /* background-color: white; */
+  width: 45%;
+  /* border: 5px solid black;
+  border-radius: 0.75em; */
+  align-items: center;
+  padding: 10px;
+}
+
+#secondHeading {
+  color: white;
+  text-shadow: 5px 5px 10px green;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+#yoda {
+  width: 600px;
+  border: solid 3px blue;
+  margin-left: 10%;
+  box-shadow: 5px 5px 10px green;
+}
+
+/* COLOR CODES FOR BACKGROUND IMAGE */
+/*  linear-gradient(to right, #2193b0, #6dd5ed); */
+/* linear-gradient(to right, #b6fbff, #83a4d4); Morning Sky */
+/* linear-gradient(to right, #2c3e50, #4ca1af); Deep Space */
+/* radial-gradient( circle farthest-corner at 22.4% 21.7%, rgba(4,189,228,1) 0%, rgba(2,83,185,1) 100.2% ); Stellar  */
+ /* linear-gradient( 109.6deg, rgba(156,252,248,1) 11.2%, rgba(110,123,251,1) 91.1% );  Sea Lord */
+  /* linear-gradient(to right, #870000, #190a05); The Strain */
+  /* linear-gradient(to right, #434343 0%, black 100%); Premium Dark */
+  /* linear-gradient(to right, #fc5c7d, #6a82fb);  Sublime Light */
