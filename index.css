@@ -2,6 +2,7 @@ body {
   background-image: linear-gradient(to right, #2193b0, #6dd5ed); 
   background-size: cover;
   font-family: Arial, Helvetica, sans-serif;
+  
 }
 
 nav {
@@ -53,6 +54,13 @@ nav {
   border: solid 3px blue;
   margin-left: 10%;
   box-shadow: 5px 5px 10px green;
+}
+
+footer {
+  color:white;
+  font-size:smaller;
+  margin-left: 10%;
+  font-style: italic;
 }
 
 #section2 {
